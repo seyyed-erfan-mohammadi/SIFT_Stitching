@@ -1,4 +1,9 @@
 # 🔍 SIFT Panorama Stitching with Blending Modes
+<div align="center">
+  <img width="595" height="641" alt="Screenshot 2025-07-20 at 21 10 44" src="https://github.com/user-attachments/assets/65356065-b0c1-483c-98ef-4b53303d178a" />
+</div>
+
+
 
 ## 🧠 Overview
 This project investigates the performance of the **SIFT (Scale-Invariant Feature Transform)** algorithm for stitching panoramic images. It evaluates how well SIFT performs under various conditions such as image rotation, scaling, cropping, and intensity variation. The goal is to simulate real-world challenges in image alignment and to enhance visual output using different image blending strategies.
